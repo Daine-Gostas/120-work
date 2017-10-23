@@ -1,3 +1,3 @@
-Empty p5 sketch.
+Daine Gostas; Section ??
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+[live page](https://daine-gostas.github.io/120-work/HW-3/)
