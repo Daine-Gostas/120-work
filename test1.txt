@@ -7,6 +7,6 @@ This is my first text document for one of Dr. Musick’s Media Arts courses.
 blah
 hahahaha
 
-
+I am working on the remote version of the git repo.
 
 changes for github.com
