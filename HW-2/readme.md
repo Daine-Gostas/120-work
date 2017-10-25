@@ -35,13 +35,17 @@ Besides that, the work put into finding out how to make links and certain functi
 
 Update: I found getting an image to work in Atom to be difficult.
 
+After SEVERAL trial and error I have discovered that it works perfectly fine on the GitHub website but not on Atom. I'm unsure what this problem is for Atom but at least it's working.
+
 ## Things I Learned
 
 Besides learning how to do everything you see here, I learned how easy it can be to do this once you know how all of the programs work together and that organization is KEY when it comes to coding.
 
 This screenshot of my page should be a good representation of what I learned:
 
-![HW2Screenshot](HW2screenshot.png?)
+![HW2Screenshot](HW2screenshot.png)
 
 
 ## Did I help other students?
+
+I was unable to help any students for this week.
