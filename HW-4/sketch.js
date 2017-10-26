@@ -2,7 +2,7 @@ function setup() {
   createCanvas(800, 600);
   background('blue');
 
-  fill('pink');
+  fill('cyan');
   ellipse(300, 200, 100);
   fill('white');
   ellipse(275, 175, 40);
