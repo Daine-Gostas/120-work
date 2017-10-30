@@ -1,3 +1,5 @@
-Empty p5 sketch.
+Daine Gostas; Section 50
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+This week I learned how time consuming one assignment can be, and how long my body can physically code without collapsing from complete exhaustion (6 1/2 hours now and still going strong!). But in all seriousness, I learned how many possibilities there are with creating images via code! The only struggle I had with this assignment came with finding patterns using other examples and slowly but surely learning exactly how the coordinates work with each shape and how to create different segments which connect with each other through the quad() command. I didn't know just how much math there would be in coding but at one point I found myself looking up old trig algorithms just to figured out how to calculate the arc of a circle so I would know where to put one of my points for the arms. Besides that strenuous task however I had a lot of fun with this once I got a hang of it and I'm happy to have learned how the whole sandbox and grid aspects worked. Next assignments, here I come!
+
+[live page](https://daine-gostas.github.io/120-work/HW-4/)
