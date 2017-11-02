@@ -1,0 +1,39 @@
+WhatToDo
+
+Unlike your previous p5 homework projects, where you explicitly coded each shape,
+you are to create an algorithmic sketch this week. This algorithmic sketch should
+leverage the draw {} function to create an evolving, algorithmic sketch.
+
+This sketch should;
+
+Use ‘global’ variables (variables declared outside of setup{} and draw{}) which,
+are re-assigned every iteration of the draw loop.
+
+The global variables can change in relationship to themselves,
+or to other variables.
+at least one of these variables, should be an object. (var myObj = {})
+Devise algorithms with math operators and functions to dictate these evolving
+relationships (i.e. you should write an algorithm that creates an artwork over time).
+
+You might consider using any of the math functions listed under the “math” section on
+the p5 reference page. You are expected to use at least two of the following functions.
+
+abs()
+ceil()
+ceil()
+constrain()
+floor()
+pow()
+round()
+sq()
+sqrt()
+
+This is in addition to the standard math operators. You are expected to use each of the
+following at least once.
+
+Addition/Subtraction (+, -)
+Multiplication (*)
+Division (/) (remember to avoid divide by 0 errors)
+Modulo (%)
+Use at least one random number generator (random()).
+Use at the map function at least once (map()).
