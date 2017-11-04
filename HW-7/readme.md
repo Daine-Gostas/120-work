@@ -17,6 +17,11 @@ Daine Gostas, Section 50
 
 ## How did you alter the sketch?
 
-<!--
-Please describe how and why you changed the sketch?
--->
+First I used the mousePressed function to change the background every time the mouse is clicked.
+Then, I created an object to determine the color of the circle.
+Next, I used the weird black and white random generator I made in the last assignment to change the color of the ellipse.
+Finally, the original plan was to add a smiley face that would follow the cursor, and the point of the game would be to avoid the black and white moving path. However when I found out that the smiley face was also making a continuous line, I decided to match the size with the black and white path and make the trail multicolored, thus creating a battle between color and black/white.
+
+Extra Stuff
+- Added text to start the battle.
+- Added text object and mousePressed command to hide text once the canvas is clicked on
